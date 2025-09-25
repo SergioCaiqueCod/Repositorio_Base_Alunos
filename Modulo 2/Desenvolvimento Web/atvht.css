@@ -1,0 +1,25 @@
+nav{
+    display:flex;
+    background-color: black;
+    color: white;
+    justify-content:space-between;
+    align-items: center;
+}
+ul{
+display:flex;
+justify-content:space-between;
+flex-direction: row;
+gap:40px;
+font-size: 30px;
+list-style: none;
+}
+
+button{
+  width:100px ;
+  height: 45px;
+  border-radius: 50px;
+}  
+img{
+    width:135px ;
+    height: 100px;
+}
